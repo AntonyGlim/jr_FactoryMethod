@@ -7,6 +7,6 @@ public class KidBoy implements Human {
 
     @Override
     public String toString() {
-        return "KidGirl{}";
+        return "KidBoy{}";
     }
 }
